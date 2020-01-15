@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/controller/DesignRendererController.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/test_bed/TestSave.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/DesignerState.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/test_bed/TestLoad.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/ClassType.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/data/simple_app_properties.xml</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/SolidArrow.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/data/workspace_properties.xml</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/DataManager.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/gui/Workspace.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/Variable.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/JClassDesigner.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/Method.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/controller/PageEditController.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/css/jcd_style.css</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/FeatheredArrow.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/file/FileManager.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/test/jcd/file/FileManagerTest.java</file>
+            <file>file:/C:/Users/yan/Documents/NetBeansProjects/jClassDesigner/src/jcd/data/DiamondArrow.java</file>
+        </group>
+    </open-files>
+</project-private>

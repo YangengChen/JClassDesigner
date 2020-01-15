@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the workspace controls, which are custom for each application
+-->
+<properties>
+    <property_list>
+           <!-- PROGRAM ICON FILES -->
+	<property name="SELECT_BUTTON_ICON"	value="SelectionTool.png"></property>
+	<property name="RESIZE_BUTTON_ICON"		value="Resize.png"></property>
+        <property name="ADD_CLASS_BUTTON_ICON"		value="AddClass.png"></property>
+	<property name="ADD_INTERFACE_BUTTON_ICON"  value="AddInterface.png"></property>
+	<property name="REMOVE_BUTTON_ICON"	value="Remove.png"></property>
+	<property name="UNDO_BUTTON_ICON"	value="Undo.png"></property>
+	<property name="REDO_BUTTON_ICON"		value="Redo.png"></property>
+        <property name="ZOOM_IN_BUTTON_ICON"		value="ZoomIn.png"></property>
+        <property name="ZOOM_OUT_BUTTON_ICON"		value="ZoomOut.png"></property>
+        <property name="ADD_VARIABLE_ICON"		value="Add.png"></property>
+        <property name="REMOVE_VARIABLE_ICON"		value="Remove2.png"></property>
+        <property name="ADD_METHOD_ICON"		value="Add.png"></property>
+        <property name="REMOVE_METHOD_ICON"		value="Remove2.png"></property>
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+	<property name="SELECT_BUTTON_TOOLTIP"	    value="Use Selection Tool"></property>
+        <property name="RESIZE_BUTTON_TOOLTIP"	    value="Enable Resizing mode"></property>
+	<property name="ADD_CLASS_BUTTON_TOOLTIP"   value="Add a Class"></property>
+	<property name="ADD_INTERFACE_BUTTON_TOOLTIP"	    value="Add an Interface"></property>
+	<property name="REMOVE_BUTTON_TOOLTIP"	    value="Remove selected Element"></property>
+	<property name="UNDO_BUTTON_TOOLTIP"	    value="Undo previous action"></property>
+	<property name="REDO_BUTTON_TOOLTIP"	    value="Redo previous action"></property>
+        <property name="ZOOM_IN_BUTTON_TOOLTIP"		value="Zoom into the page"></property>
+        <property name="ZOOM_OUT_BUTTON_TOOLTIP"		value="Zoom out of the page"></property>
+        <property name="ADD_VARIABLE_TOOLTIP"	    value="Add new variable"></property>
+        <property name="REMOVE_VARIABLE_TOOLTIP"	    value="Remove variable"></property>
+	<property name="ADD_METHOD_TOOLTIP"	    value="Add new method"></property>
+        <property name="REMOVE_METHOD_TOOLTIP"	    value="Remove method"></property>
+        
+	<!-- MESSAGES -->
+		
+	<!-- ERROR MESSAGES AND TITLES FOR THEIR DIALOGS -->
+
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>

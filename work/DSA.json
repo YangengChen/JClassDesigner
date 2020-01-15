@@ -1,0 +1,39 @@
+
+{
+    "JavaObjects":[
+        {
+            "type":"class",
+            "name":"defaultname0",
+            "access":"public",
+            "abstract":false,
+            "package":"default_package",
+            "x":"661.0",
+            "y":"160.0",
+            "width":"150.0",
+            "height":"50.0",
+            "parents":[
+            ],
+            "variables":[
+            ],
+            "methods":[
+            ]
+        },
+        {
+            "type":"class",
+            "name":"defaultname1",
+            "access":"public",
+            "abstract":false,
+            "package":"default_package",
+            "x":"612.0",
+            "y":"293.0",
+            "width":"150.0",
+            "height":"50.0",
+            "parents":[
+            ],
+            "variables":[
+            ],
+            "methods":[
+            ]
+        }
+    ]
+}
